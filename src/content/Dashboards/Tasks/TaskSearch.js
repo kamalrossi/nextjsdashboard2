@@ -158,7 +158,7 @@ function TaskSearch() {
               <Rating value={4} defaultValue={5} precision={1} readOnly />
             </Box>
             <Link href="#" variant="h3" color="text.primary">
-              Migrate hosting to a more performant web server datacenter
+              Food fun at Venice restaurant
             </Link>
             <Box
               sx={{
@@ -192,9 +192,7 @@ function TaskSearch() {
               }}
               color="text.secondary"
             >
-              It is a long established fact that a reader will be distracted by
-              the readable content of a page when looking at its layout beatae
-              vitae dicta sunt explicabo.
+              I cant forget how delicious the food were in streets of venice.
             </Typography>
             <Button size="small" variant="contained">
               View task
@@ -266,7 +264,7 @@ function TaskSearch() {
               <Rating value={4} defaultValue={5} precision={1} readOnly />
             </Box>
             <Link href="#" variant="h3" color="text.primary">
-              Improve conversion rated by integrating new analytics tools
+              Unlimited shopping experienec in Spanish suburbs
             </Link>
             <Box
               sx={{
@@ -300,9 +298,7 @@ function TaskSearch() {
               }}
               color="text.secondary"
             >
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo.
+              Wao it was mindblowing experience to buy hot items across streets of valencia
             </Typography>
             <Button size="small" variant="contained">
               View task
@@ -386,7 +382,7 @@ function TaskSearch() {
               <Rating value={4} defaultValue={5} precision={1} readOnly />
             </Box>
             <Link href="#" variant="h3" color="text.primary">
-              Increase the website speed on mobile and tablet devices
+              Brazil is working against climate concern
             </Link>
             <Box
               sx={{
@@ -420,9 +416,7 @@ function TaskSearch() {
               }}
               color="text.secondary"
             >
-              Nemo enim ipsam voluptatem quia accusantium doloremque laudantium
-              voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
-              magni dolores eos qui ratione.
+              World is worried about how brazil is working against the global warming problem
             </Typography>
             <Button size="small" variant="contained">
               View task
