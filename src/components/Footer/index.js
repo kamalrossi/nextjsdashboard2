@@ -18,7 +18,7 @@ function Footer() {
       >
         <Box>
           <Typography variant="subtitle1">
-            &copy; ContentSwipe- All Right Reserved 2022
+            &copy; ContentCraft 2022- All Right Reserved
           </Typography>
         </Box>
         <Typography
@@ -29,7 +29,7 @@ function Footer() {
         >
           Crafted by{' '}
           <Link
-            href="kamalrossi.github.io/home"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
