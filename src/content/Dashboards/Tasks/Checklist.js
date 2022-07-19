@@ -65,7 +65,7 @@ function Checklist() {
             </IconButton>
           </Tooltip>
         }
-        title="Checklist"
+        title="Upcoming Events"
       />
       <TimelineWrapper>
         <TimelineItem>
@@ -82,20 +82,20 @@ function Checklist() {
                 pb: 2
               }}
             >
-              "Tasks Quick List"
+              "Summer Special Issue"
             </Typography>
             <FormGroup>
               <FormControlLabel
                 control={<CheckboxWrapper color="primary" name="checkedC" />}
-                label="Prepare website launch"
+                label="Fashion blog modification"
               />
               <FormControlLabel
                 control={<CheckboxWrapper color="primary" name="checkedC" />}
-                label="Build React Native application"
+                label="Feature page preparation"
               />
               <FormControlLabel
                 control={<CheckboxWrapper color="primary" name="checkedC" />}
-                label="Fix remaining bugs for first 4 pages"
+                label="Sports issue preparation"
               />
             </FormGroup>
           </TimelineContent>
@@ -114,16 +114,16 @@ function Checklist() {
                 pb: 2
               }}
             >
-              "Project Management"
+              "Winter Issue Preparation"
             </Typography>
             <FormGroup>
               <FormControlLabel
                 control={<CheckboxWrapper color="primary" name="checkedC" />}
-                label="Complete sales pitch"
+                label="Winter Food Festival Cover"
               />
               <FormControlLabel
                 control={<CheckboxWrapper color="primary" name="checkedC" />}
-                label="Improve SEO visibility"
+                label="Winter Fashion Blog Preparation"
               />
             </FormGroup>
           </TimelineContent>
@@ -142,16 +142,16 @@ function Checklist() {
                 pb: 2
               }}
             >
-              "Business & Marketing"
+              "Spring Arrangements"
             </Typography>
             <FormGroup>
               <FormControlLabel
                 control={<CheckboxWrapper color="primary" name="checkedC" />}
-                label="Create marketing campaign"
+                label="Marketing campaign for new season"
               />
               <FormControlLabel
                 control={<CheckboxWrapper color="primary" name="checkedC" />}
-                label="Sign business contract with partners"
+                label="Contract deal with new clients"
               />
             </FormGroup>
           </TimelineContent>
