@@ -94,7 +94,7 @@ function HeaderMenu() {
           >
             <ListItemText
               primaryTypographyProps={{ noWrap: true }}
-              primary="Buttons"
+              primary="Post"
             />
           </ListItem>
           <ListItem
@@ -105,7 +105,7 @@ function HeaderMenu() {
           >
             <ListItemText
               primaryTypographyProps={{ noWrap: true }}
-              primary="Forms"
+              primary="Authors"
             />
           </ListItem>
           <ListItem
@@ -118,7 +118,7 @@ function HeaderMenu() {
               primaryTypographyProps={{ noWrap: true }}
               primary={
                 <Box display="flex" alignItems="center">
-                  Others
+                  Views
                   <Box display="flex" alignItems="center" pl={0.3}>
                     <ExpandMoreTwoToneIcon fontSize="small" />
                   </Box>
