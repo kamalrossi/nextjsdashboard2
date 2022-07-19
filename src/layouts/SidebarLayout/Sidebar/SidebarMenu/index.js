@@ -1,4 +1,4 @@
-import { useContext } from 'react';
+ import { useContext } from 'react';
 import { useRouter } from 'next/router';
 
 import {
@@ -223,7 +223,7 @@ function SidebarMenu() {
                     onClick={closeSidebar}
                     startIcon={<BrightnessLowTwoToneIcon />}
                   >
-                  Manage Posts             
+                 Blogger          
                   </Button>
                 </NextLink>
               </ListItem>
@@ -238,7 +238,7 @@ function SidebarMenu() {
                     onClick={closeSidebar}
                     startIcon={<MmsTwoToneIcon />}
                   >
-                    Community Feedback
+                    Reporter
                   </Button>
                 </NextLink>
               </ListItem>
@@ -268,7 +268,7 @@ function SidebarMenu() {
                     onClick={closeSidebar}
                     startIcon={<TableChartTwoToneIcon />}
                   >
-                    Authors
+                    System Admin
                   </Button>
                 </NextLink>
               </ListItem>
@@ -296,7 +296,7 @@ function SidebarMenu() {
                     onClick={closeSidebar}
                     startIcon={<AccountCircleTwoToneIcon />}
                   >
-                    Advertisement
+                    Employee Management
                   </Button>
                 </NextLink>
               </ListItem>
@@ -313,7 +313,7 @@ function SidebarMenu() {
                     onClick={closeSidebar}
                     startIcon={<DisplaySettingsTwoToneIcon />}
                   >
-                    Sponsored News
+                    Inventory Management
                   </Button>
                 </NextLink>
               </ListItem>
@@ -341,7 +341,7 @@ function SidebarMenu() {
                     onClick={closeSidebar}
                     startIcon={<BallotTwoToneIcon />}
                   >
-                   View Analytics
+                 Post Management
                   </Button>
                 </NextLink>
               </ListItem>
@@ -356,7 +356,7 @@ function SidebarMenu() {
                     onClick={closeSidebar}
                     startIcon={<BeachAccessTwoToneIcon />}
                   >
-                   Reader Database
+                   Ad Management
                   </Button>
                 </NextLink>
               </ListItem>
@@ -371,7 +371,7 @@ function SidebarMenu() {
                     onClick={closeSidebar}
                     startIcon={<EmojiEventsTwoToneIcon />}
                   >
-                   Sentiment Map
+                   Comment/Review Analysis
                   </Button>
                 </NextLink>
               </ListItem>
@@ -386,7 +386,7 @@ function SidebarMenu() {
                     onClick={closeSidebar}
                     startIcon={<FilterVintageTwoToneIcon />}
                   >
-                   Review Logs
+                   Editorial Picks
                   </Button>
                 </NextLink>
               </ListItem>
@@ -401,7 +401,7 @@ function SidebarMenu() {
                     onClick={closeSidebar}
                     startIcon={<HowToVoteTwoToneIcon />}
                   >
-                   Editorial Roadmap
+                 Seasonal Management
                   </Button>
                 </NextLink>
               </ListItem>
