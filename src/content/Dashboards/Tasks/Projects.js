@@ -67,7 +67,7 @@ function Projects() {
           pb: 3
         }}
       >
-        <Typography variant="h3">Projects</Typography>
+        <Typography variant="h3">Blog Genre</Typography>
         <Box>
           <Button size="small" variant="outlined">
             View all projects
@@ -92,7 +92,7 @@ function Projects() {
                   <MoreVertTwoToneIcon />
                 </IconButton>
               }
-              title="Fix Urgent Mobile App Bugs"
+              title="Travel Vlogs"
               titleTypographyProps={{
                 variant: 'h5',
                 color: 'textPrimary'
@@ -233,7 +233,7 @@ function Projects() {
                   <MoreVertTwoToneIcon />
                 </IconButton>
               }
-              title="Replace Placeholder Images"
+              title="Food Lovers Blog"
               titleTypographyProps={{
                 variant: 'h5',
                 color: 'textPrimary'
@@ -359,7 +359,7 @@ function Projects() {
                   <MoreVertTwoToneIcon />
                 </IconButton>
               }
-              title="BloomUI Redesign Project"
+              title="Fashion Fest Blog"
               titleTypographyProps={{
                 variant: 'h5',
                 color: 'textPrimary'
