@@ -78,7 +78,7 @@ function TeamOverview() {
             >
               <AvatarWrapper
                 alt="Remy Sharp"
-                src="/static/images/avatars/4.jpg"
+                src="/static/images/avatars/polish3.png"
               />
             </Badge>
             <Box
@@ -87,10 +87,10 @@ function TeamOverview() {
               }}
             >
               <Typography variant="h4" noWrap gutterBottom>
-                Hanna Siphron
+                Jordana Margareta
               </Typography>
               <Typography variant="subtitle2" noWrap>
-                Web Dev Support Team
+                Tech Blogger
               </Typography>
             </Box>
           </Box>
@@ -133,8 +133,8 @@ function TeamOverview() {
               }
             >
               <AvatarWrapper
-                alt="Ann Saris"
-                src="/static/images/avatars/3.jpg"
+                alt="Mendela Zuana"
+                src="/static/images/avatars/polish2.png"
               />
             </Badge>
             <Box
@@ -143,17 +143,17 @@ function TeamOverview() {
               }}
             >
               <Typography variant="h4" noWrap gutterBottom>
-                Ann Saris
+                Mendela Zuana
               </Typography>
               <Typography variant="subtitle2" noWrap>
-                Senior Book Keeper
+                Fashion Blogger
               </Typography>
             </Box>
           </Box>
 
           <Typography variant="subtitle2" gutterBottom>
-            <Text color="black">2</Text> out of <Text color="black">8</Text>{' '}
-            tasks completed
+            <Text color="black"></Text> Contributor of <Text color="black">10</Text>{' '}
+            posts
           </Typography>
           <LinearProgressWrapper
             value={25}
@@ -189,8 +189,8 @@ function TeamOverview() {
               }
             >
               <AvatarWrapper
-                alt="James Stanton"
-                src="/static/images/avatars/5.jpg"
+                alt="Kurnikova Mihaela"
+                src="/static/images/avatars/polish1.png"
               />
             </Badge>
             <Box
@@ -199,17 +199,17 @@ function TeamOverview() {
               }}
             >
               <Typography variant="h4" noWrap gutterBottom>
-                James Stanton
+                Kurnikova Mihaela
               </Typography>
               <Typography variant="subtitle2" noWrap>
-                Phone Pre-Sales Assistant
+                Climate Blogger
               </Typography>
             </Box>
           </Box>
 
           <Typography variant="subtitle2" gutterBottom>
-            <Text color="black">10</Text> out of <Text color="black">20</Text>{' '}
-            tasks completed
+            <Text color="black"></Text> contributor of <Text color="black">20</Text>{' '}
+            posts
           </Typography>
           <LinearProgressWrapper
             value={50}
