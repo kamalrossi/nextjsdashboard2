@@ -29,7 +29,7 @@ function Profile() {
         }}
         variant="rounded"
         alt="Mergareta Mihaelva"
-        src="/static/images/avatars/polish34.png"
+        src="/static/images/avatars/poliosh34.png"
       />
       <Typography align="center" variant="h4" gutterBottom>
       Mergareta Mihaelva
