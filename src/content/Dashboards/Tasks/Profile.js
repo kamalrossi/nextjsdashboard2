@@ -28,14 +28,14 @@ function Profile() {
           height: theme.spacing(12)
         }}
         variant="rounded"
-        alt="Craig Donin"
-        src="/static/images/avatars/4.jpg"
+        alt="Mergareta Mihaelva"
+        src="/static/images/avatars/polish34.png"
       />
       <Typography align="center" variant="h4" gutterBottom>
-        Craig Donin
+      Mergareta Mihaelva
       </Typography>
       <Typography align="center" variant="subtitle2" gutterBottom>
-        Senior Web Developer
+        Fashion Blogger
       </Typography>
 
       <Box display="flex" alignItems="center" justifyContent="center">
