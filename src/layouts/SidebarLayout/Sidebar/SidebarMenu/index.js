@@ -195,7 +195,7 @@ function SidebarMenu() {
                     onClick={closeSidebar}
                     startIcon={<DesignServicesTwoToneIcon />}
                   >
-                    Overview
+                    ContentCraft 
                   </Button>
                 </NextLink>
               </ListItem>
@@ -324,7 +324,7 @@ function SidebarMenu() {
           component="div"
           subheader={
             <ListSubheader component="div" disableSticky>
-             Statistics
+            Tasks
             </ListSubheader>
           }
         >
