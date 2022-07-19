@@ -1,4 +1,4 @@
-import {
+      import {
   Typography,
   Button,
   Box,
@@ -36,8 +36,8 @@ const AvatarPageTitle = styled(Avatar)(
 
 function PageHeader() {
   const user = {
-    name: 'Catherine Pike',
-    avatar: '/static/images/avatars/1.jpg'
+    name: 'Margareta Mihaeleva',
+    avatar: '/static/images/avatars/poliosh34.png'
   };
 
   return (
@@ -56,8 +56,7 @@ function PageHeader() {
             Welcome, {user.name}!
           </Typography>
           <Typography variant="subtitle2">
-            Manage your day to day tasks with style! Enjoy a well built UI
-            system.
+            Happy Day! Have a glance on post, view and return!
           </Typography>
         </Box>
       </Box>
