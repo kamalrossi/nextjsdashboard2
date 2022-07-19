@@ -60,9 +60,9 @@ const UserBoxDescription = styled(Typography)(
 
 function HeaderUserbox() {
   const user = {
-    name: 'Catherine Pike',
-    avatar: '/static/images/avatars/1.jpg',
-    jobtitle: 'Project Manager'
+    name: 'Margareta Mihaeleva',
+    avatar: '/static/images/avatars/poliosh34.png',
+    jobtitle: 'Fashion Blogger'
   };
 
   const ref = useRef(null);
