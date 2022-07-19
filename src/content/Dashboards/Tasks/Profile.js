@@ -98,7 +98,7 @@ function Profile() {
             primaryTypographyProps={{ variant: 'subtitle2' }}
           />
           <Typography variant="subtitle2" color="text.primary">
-            22 January 2021
+            2 January 2022
           </Typography>
         </ListItem>
         <Divider component="li" />
@@ -112,7 +112,7 @@ function Profile() {
             primaryTypographyProps={{ variant: 'subtitle2' }}
           />
           <Typography variant="subtitle2" color="text.primary">
-            Google Inc.
+            ContentCraft
           </Typography>
         </ListItem>
         <Divider component="li" />
