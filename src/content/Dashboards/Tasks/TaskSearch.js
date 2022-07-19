@@ -158,7 +158,7 @@ function TaskSearch() {
               <Rating value={4} defaultValue={5} precision={1} readOnly />
             </Box>
             <Link href="#" variant="h3" color="text.primary">
-              Migrate hosting to a more performant web server datacenter
+           Food unlimited on streets of Berlin
             </Link>
             <Box
               sx={{
@@ -192,9 +192,8 @@ function TaskSearch() {
               }}
               color="text.secondary"
             >
-              It is a long established fact that a reader will be distracted by
-              the readable content of a page when looking at its layout beatae
-              vitae dicta sunt explicabo.
+             You cannot imagine how we had wonderful moments in mouthful food experience in streets of 
+             berlin last year.
             </Typography>
             <Button size="small" variant="contained">
               View task
@@ -266,7 +265,7 @@ function TaskSearch() {
               <Rating value={4} defaultValue={5} precision={1} readOnly />
             </Box>
             <Link href="#" variant="h3" color="text.primary">
-              Improve conversion rated by integrating new analytics tools
+            Global concern over climate change increases
             </Link>
             <Box
               sx={{
@@ -300,9 +299,8 @@ function TaskSearch() {
               }}
               color="text.secondary"
             >
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae ab illo.
+             We often forget that we cannot live without oxygen and trees.
+             As indusries are growing, we rarely note down the mistakes we had.
             </Typography>
             <Button size="small" variant="contained">
               View task
@@ -386,7 +384,7 @@ function TaskSearch() {
               <Rating value={4} defaultValue={5} precision={1} readOnly />
             </Box>
             <Link href="#" variant="h3" color="text.primary">
-              Increase the website speed on mobile and tablet devices
+             Amazing shopping experience in Spain streets
             </Link>
             <Box
               sx={{
@@ -420,12 +418,10 @@ function TaskSearch() {
               }}
               color="text.secondary"
             >
-              Nemo enim ipsam voluptatem quia accusantium doloremque laudantium
-              voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
-              magni dolores eos qui ratione.
-            </Typography>
+            Last winter, I had the chance to vist places of famous cities including Barcelona, Valencia.
+            We had experienced world famous brands and local cultural crafts in their streets.
             <Button size="small" variant="contained">
-              View task
+            Read More
             </Button>
             <Divider
               sx={{
